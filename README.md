@@ -4,7 +4,7 @@
 
 ![BRIEF](http://brief.nousbuild.org/images/logo.png)
 
-###简短的介绍
+### 简短的介绍
 
 **BRIEF卫生空间设计** 是2017年第十届全国大学生节能减排社会实践与科技竞赛三等奖作品。
 
@@ -13,7 +13,7 @@
 | Bridging | Renewable Energy | Intelligent | Entirety | Foaming  |
 |  桥接的  |     再生能源     |   智能的    |  整体的  | 起泡式的 |
 
-###BBRIEF TEAM相关链接
+### BBRIEF TEAM相关链接
 
 作品展示网站：[点击进入](http://brief.nousbuild.org)
 
@@ -31,13 +31,13 @@
 
 
 
-##单片机功能代码
+## 单片机功能代码
 
-####排水时间控制代码
+#### 排水时间控制代码
 
 [点击查看](http://www.nousbuild.org/download/time-control.html)
 
-####短信通知代码
+#### 短信通知代码
 
 [点击查看](http://www.nousbuild.org/download/sms.html)
 
