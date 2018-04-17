@@ -13,8 +13,6 @@
 | Bridging | Renewable Energy | Intelligent | Entirety | Foaming  |
 |  桥接的  |     再生能源     |   智能的    |  整体的  | 起泡式的 |
 
-<video src="http://oss.nousbuild.org/brief2017/brief-one-minute.mp4"></video>
-
 ###BBRIEF TEAM相关链接
 
 作品展示网站：[点击进入](http://brief.nousbuild.org)
@@ -45,7 +43,7 @@
 
 #### 源代码
 
-源代码在此git分支`排水时间控制`和`短信通知`目录下
+源代码在此git仓库`source`目录下
 
 ## 版权
 
