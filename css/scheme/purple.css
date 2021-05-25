@@ -1,0 +1,93 @@
+a {
+	color: #9B59B6;
+}
+#menu .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	color: #9B59B6;
+}
+.footer-toogle .hover i {
+	color: #9B59B6;
+}
+.totop:hover span>a.hover {
+	color: #9B59B6;
+}
+.social-icon li:hover a {
+	background: #9B59B6;
+}
+.home .slides-navigation a:hover {
+	color: #9B59B6;
+}
+.services .services-icon {
+	background: #9B59B6;
+}
+.testimonial .icon-testimonial {
+	color: #9B59B6;
+}
+.call-ta h2 {
+	border-left: 3px solid #9B59B6;
+}
+.contact form input, .contact form textarea {
+	border-left: 1px solid #9B59B6;
+}
+.contact form input:focus, .contact form textarea:focus {
+	border: 1px solid #9B59B6;
+}
+#primary .pagination li:hover a {
+	background: #9B59B6;
+}
+#primary .pagination li.active a {
+	background: #9B59B6;
+}
+.post .post-meta span a:hover {
+	color: #9B59B6;
+}
+.blog-comments form input, .blog-comments form textarea {
+	border-left: 1px solid #9B59B6;
+}
+.blog-comments form input:focus, .blog-comments form textarea:focus {
+	border: 1px solid #9B59B6;
+}
+.widgetbar .widget ul li a:hover {
+	color: #9B59B6;
+}
+.widget .widget-title a:hover {
+	color: #9B59B6;
+}
+form .form-control, form textarea {
+	border-left: 1px solid #9B59B6;
+}
+form .form-control:focus, form textarea:focus {
+	border: 1px solid #9B59B6;
+}
+.btn-link:hover {
+	color: #9B59B6;
+}
+.pagination li:hover a {
+	background: #9B59B6;
+	color: #FFF;
+}
+.pagination li.active a {
+	background: #9B59B6;
+}
+.service .icon-holder {
+	color: #9B59B6;
+}
+.portfolioFilter li.active {
+	background: #9b59b6;
+	border: 1px solid #9b59b6;
+}
+.service:hover {
+	border-color: #9B59B6;
+}
+.client-photo.active {
+	border: 1px solid #9B59B6;
+}
+.to-top-btn:hover {
+	color: #9B59B6;
+}
+.sidebar .widget ul li a:hover {
+	color: #9B59B6;
+}
+.btn:hover {
+	color: #9B59B6;
+	border-color: #9B59B6;
+}
