@@ -1889,16 +1889,44 @@ form textarea:focus {
 
 /* Select Background Color */
 ::selection {
-	background: #4285F4;
+	background: #91C2CB;
 	color: #FFFFFF;
 }
 
 ::-moz-selection {
-	background: #4285F4;
+	background: #91C2CB;
 	color: #FFFFFF;
 }
 
 ::-webkit-selection {
-	background: #4285F4;
+	background: #91C2CB;
 	color: #FFFFFF;
+}
+
+/* Scrollbar  */
+::-webkit-scrollbar {
+	background-color: transparent;
+	width: 6px;
+	height: 3px;
+	background-clip: padding-box;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #F5F5F5;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-button {
+	height: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-image: -webkit-gradient(linear, left bottom, left top,
+			color-stop(0.33, rgb(177, 216, 219)),
+			color-stop(0.66, rgb(145, 194, 205)));
+}
+
+::-webkit-scrollbar-corner {
+	background-color: transparent;
 }

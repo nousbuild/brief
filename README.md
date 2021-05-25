@@ -1,7 +1,7 @@
 # BRIEF卫生空间设计
 
 ![BRIEF](https://img.shields.io/badge/BRIEF-brief.nousbuiuld.org-619AD5)
-![Build Status](https://travis-ci.org/typelift/Swiftz.svg?branch=master) 
+![Build Status](https://travis-ci.org/typelift/Swiftz.svg?branch=master)
 
 ![BRIEF](http://brief.nousbuild.org/assets/images/logo.svg)
 

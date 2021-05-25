@@ -38,7 +38,7 @@
   </script>
 
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="apple-touch-icon.png">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="shortcut icon" href="favicon.ico">
   <meta name="theme-color" content="#FFFFFF">
@@ -47,7 +47,7 @@
   <meta property="og:site_name" content="BERIF卫生空间设计" />
   <meta property="og:url" content="brief.nousbuild.org" />
   <meta property="og:title" content="BERIF卫生空间设计 | 2017全国大学生节能减排比赛" />
-  <meta property="og:image" content="http://brief.nousbuild.org/icon.png" />
+  <meta property="og:image" content="https://brief.nousbuild.org/icon.png" />
   <meta property="og:description" content="欢迎访问BERIF卫生空间设计参赛作品网站。" />
   <!-- end open graph protocol -->
 
@@ -56,25 +56,25 @@
   <meta name='twitter:site' content='BERIF卫生空间设计' />
   <meta name="twitter:url" content="brief.nousbuild.org" />
   <meta name='twitter:title' content='ERIF卫生空间设计 | 2017全国大学生节能减排比赛' />
-  <meta name='twitter:image' content='http://brief.nousbuild.org/icon.png' />
+  <meta name='twitter:image' content='https://brief.nousbuild.org/icon.png' />
   <meta name='twitter:description' content='欢迎访问BERIF卫生空间设计参赛作品网站。' />
 
   <!-- QQ sharing -->
   <meta itemprop="name" content="BERIF卫生空间设计" />
-  <meta itemprop="image" content="http://brief.nousbuild.org/icon.png" />
+  <meta itemprop="image" content="https://brief.nousbuild.org/icon.png" />
   <meta name="description" itemprop="description" content="欢迎访问BERIF卫生空间设计参赛作品网站。" />
 
   <!-- WeChat sharing -->
   <script>
     var WECHAT_TITLE = 'BERIF卫生空间设计';
     var WECHAT_DESC = '欢迎访问BERIF卫生空间设计参赛作品网站。';
-    var WECHAT_IMAGE = 'http://brief.nousbuild.org/icon.png';
+    var WECHAT_IMAGE = 'https://brief.nousbuild.org/icon.png';
     var WCHAT_NO_GA = '';
   </script>
 
 </head>
 
-<body data-spy="scroll">
+<body>
 
   <!-- Preloader -->
   <div id="preloader"></div>
@@ -341,7 +341,7 @@
               <div class="col-md-12">
                 <article class="post">
                   <div class="post-title">
-                    <h1>Brief一分钟</h1>
+                    <h1>BRIEF一分钟</h1>
                   </div>
                   <div class="post-content">
                     <p>
@@ -592,16 +592,11 @@
 
   <!-- Library Scripts -->
   <script src="assets/js/jquery-1.10.2.min.js"></script>
-  <script src="assets/js/lib/jquery.preloader.js"></script>
-  <script src="assets/js/lib/nivo-lightbox.min.js"></script>
   <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/lib/nivo-lightbox.min.js"></script>
   <script src="assets/js/lib/jquery.superslides.min.js"></script>
-  <script src="assets/js/lib/smoothscroll.js"></script>
   <script src="assets/js/lib/jquery.bxslider.min.js"></script>
   <script src="assets/js/lib/jquery.mixitup.min.js"></script>
-  <script src="assets/js/lib/jquery.backtotop.js"></script>
-  <script src="assets/js/lib/jquery.carouFredSel-6.2.1-packed.js"></script>
-  <!--<script src="assets/js/lib/retina.min.js"></script>-->
   <!--<script src="assets/js/mp42blob.js"></script>-->
 
   <!-- Custom Script -->
@@ -611,14 +606,27 @@
   <script type="text/javascript">
     document.getElementById('footerYear').innerHTML = new Date().getFullYear() + '';
 
-    function onload() {
-      if (document.readyState === 'loading') {
-        console.log('Loading Not Yet');
-      } else {
-        console.log('Loading Complete');
-        $(".main-loader").fadeOut("slow");
-      }
-    }
+    /* Loader */
+    (function ($) {
+      $(window).load(function () {
+        $('#preloader').delay(300).fadeOut('slow');
+      });
+    }(jQuery));
+
+     /* To Top */
+    (function ($) {
+      $.fn.backToTop = function () {
+        var selectz = $(this);
+        selectz.hide();
+        $(window).scroll(function () {
+          if ($(this).scrollTop() > $(window).height()) {
+            selectz.fadeIn();
+          } else {
+            selectz.fadeOut();
+          }
+        });
+      };
+    }(jQuery));
   </script>
 </body>
 
