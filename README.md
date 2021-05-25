@@ -32,9 +32,9 @@
 
 ### 单片机功能代码
 
-排水时间控制代码：[点击查看](demo/time-control.html)
+排水时间控制代码：[点击查看](https://brief.nousbuild.org/demo/time-control.html)
 
-短信通知代码：[点击查看](demo/sms.html)
+短信通知代码：[点击查看](https://brief.nousbuild.org/demo/sms.html)
 
 #### 源代码
 
