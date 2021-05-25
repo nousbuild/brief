@@ -2,7 +2,7 @@
 
 ![Build Status](https://travis-ci.org/typelift/Swiftz.svg?branch=master)
 
-![BRIEF](http://brief.nousbuild.org/images/logo.png)
+![BRIEF](http://brief.nousbuild.org/images/logo.svg)
 
 ### 简短的介绍
 
