@@ -3,27 +3,37 @@
 
 <url>
   <loc>https://brief.nousbuild.org/</loc>
-  <lastmod>2021-05-26T08:04:28+00:00</lastmod>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://brief.nousbuild.org/index.html</loc>
-  <lastmod>2021-05-26T08:04:28+00:00</lastmod>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://brief.nousbuild.org/demo/sms.html</loc>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brief.nousbuild.org/demo/time-control.html</loc>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.nousbuild.org/sanews/brief-national-competition/</loc>
-  <lastmod>2021-05-26T08:04:28+00:00</lastmod>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.nousbuild.org/me/brief-group/</loc>
-  <lastmod>2021-05-26T08:04:28+00:00</lastmod>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.nousbuild.org/sanews/brief/</loc>
-  <lastmod>2021-05-26T08:04:28+00:00</lastmod>
+  <lastmod>2021-08-23T08:04:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
