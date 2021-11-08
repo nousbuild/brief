@@ -27,7 +27,7 @@
 
 **BRIEF卫生空间设计** 中用到了单片机和系统控制，而这些需要用代码控制。
 
-![BRIEF MCU](http://brief.nousbuild.org/images/brief-mcu-banner.jpg)
+![BRIEF MCU](https://brief.nousbuild.org/assets/images/brief-mcu-banner.jpg)
 
 ### 单片机功能代码
 
