@@ -1,12 +1,15 @@
 # BRIEF卫生空间设计
 
-![BRIEF](https://img.shields.io/badge/BRIEF-brief.nousbuiuld.org-619AD5)
-
-![BRIEF](http://brief.nousbuild.org/assets/images/logo.svg)
+<p align="center">
+ <img width="100px" src="https://brief.nousbuild.org/assets/images/logo.svg">
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/BRIEF-brief.nousbuiuld.org-619AD5">
+</p>
 
 ### 简短的介绍
 
-**BRIEF卫生空间设计** 是2017年第十届全国大学生节能减排社会实践与科技竞赛三等奖作品。
+**BRIEF 卫生空间设计** 是2017年第十届全国大学生节能减排社会实践与科技竞赛三等奖作品。
 
 |    B     |        R         |      I      |    E     |    F     |
 | :------: | :--------------: | :---------: | :------: | :------: |
@@ -25,7 +28,7 @@
 
 ### 为什么放到 Github 上？
 
-**BRIEF卫生空间设计** 中用到了单片机和系统控制，而这些需要用代码控制。
+**BRIEF 卫生空间设计** 中用到了单片机和系统控制，而这些需要用代码控制。
 
 ![BRIEF MCU](https://brief.nousbuild.org/assets/images/brief-mcu-banner.jpg)
 
