@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="favicon.png" align="center" alt="Github Avatar" />
+ <img width="100px" src="https://brief.nousbuild.org/favicon.png" align="center" alt="Github Avatar" />
  <h2 align="center">BRIEF卫生空间设计</h2>
  <p align="center">第十届全国大学生节能减排大赛三等奖作品</p>
 </p>
@@ -8,6 +8,7 @@
   <img alt="oss" src="https://img.shields.io/badge/github-page-75339B.svg?style=flat">
   <img alt="build" src="https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat">
 </p>
+
 
 ### 1. 简短的介绍
 
@@ -32,7 +33,7 @@
 
 **BRIEF卫生空间设计** 中用到了单片机和系统控制，而这些需要用代码控制。
 
-![BRIEF MCU](assets/images/brief-mcu-banner.jpg)
+![BRIEF MCU](https://brief.nousbuild.org/assets/images/brief-mcu-banner.jpg)
 
 ### 4. 单片机功能代码
 
